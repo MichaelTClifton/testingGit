@@ -1,1 +1,1 @@
-hello, how are you? It's pretty nice out today!
+hello, how are you? It's pretty great out today!
